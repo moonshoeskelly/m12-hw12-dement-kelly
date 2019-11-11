@@ -1,1 +1,2 @@
-# m12-hw12-dement-kelly
+## no issues
+## no outside resources used
