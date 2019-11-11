@@ -25,7 +25,7 @@ class IceCream extends Desserts {
 
 //At the bottom of your file, create a new instance of IceCream called vanillaIceCream passing in the values "Ice Cream", 340, "Vanilla", and 3
 
-
+const vanillaIceCream = new IceCream (Ice Cream, 340, 'Vanilla', 3);
 //Console.log the new object vanillaIceCream
 //console.log(vanillaIceCream);
 
