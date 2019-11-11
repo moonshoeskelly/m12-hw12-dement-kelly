@@ -23,10 +23,12 @@ class IceCream extends Desserts {
 }
 
 
-//At the bottom of your file, create a new instance of IceCream called vanillaIceCream passing in the values "Ice Cream", 340, "Vanilla", and 3
+//create new instance called vanillaIceCream passing in values "Ice Cream", 340, "Vanilla", and 3
 
-const vanillaIceCream = new IceCream (Ice Cream, 340, 'Vanilla', 3);
-//Console.log the new object vanillaIceCream
-//console.log(vanillaIceCream);
+const vanillaIceCream = new IceCream ('Ice Cream', 340, 'Vanilla', 3);
 
-//On a new line, call the includeSpoon() method on vanillaIceCream
+//Console.log vanillaIceCream
+console.log(vanillaIceCream);
+
+//call the includeSpoon() method on vanillaIceCream
+vanillaIceCream.includeSpoon ();
